@@ -1,0 +1,24 @@
+[
+	{
+		"category": "food_and_drink",
+		"id": "622a1c3b7cc59eab6f951557",
+		"correctAnswer": "Texas ",
+		"incorrectAnswers": [
+			"Florida",
+			"California",
+			"Georgia"
+		],
+		"question": {
+			"text": "Which US state is most associated with Chilli Con Carne?"
+		},
+		"tags": [
+			"food_and_drink",
+			"food",
+			"us_states"
+		],
+		"type": "text_choice",
+		"difficulty": "easy",
+		"regions": [],
+		"isNiche": false
+	}
+]

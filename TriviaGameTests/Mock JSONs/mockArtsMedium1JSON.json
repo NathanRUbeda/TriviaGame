@@ -1,0 +1,22 @@
+[
+	{
+		"category": "arts_and_literature",
+		"id": "622a1c397cc59eab6f950f5e",
+		"correctAnswer": "Isaac Asimov",
+		"incorrectAnswers": [
+			"Ursula K. Le Guin",
+			"Philip K. Dick",
+			"Stephen King"
+		],
+		"question": {
+			"text": "Which author wrote 'I, Robot'?"
+		},
+		"tags": [
+			"arts_and_literature"
+		],
+		"type": "text_choice",
+		"difficulty": "medium",
+		"regions": [],
+		"isNiche": false
+	}
+]

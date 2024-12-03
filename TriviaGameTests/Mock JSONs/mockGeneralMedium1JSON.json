@@ -1,0 +1,22 @@
+[
+	{
+		"category": "general_knowledge",
+		"id": "622a1c367cc59eab6f95015c",
+		"correctAnswer": "Adolf Hitler",
+		"incorrectAnswers": [
+			"Josef Stalin",
+			"Karl Marx",
+			"Vlademir Lenin"
+		],
+		"question": {
+			"text": "Who wrote \"Mein Kampf\" (My Struggle)?"
+		},
+		"tags": [
+			"general_knowledge"
+		],
+		"type": "text_choice",
+		"difficulty": "medium",
+		"regions": [],
+		"isNiche": false
+	}
+]

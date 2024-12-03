@@ -1,0 +1,25 @@
+[
+	{
+		"category": "science",
+		"id": "64746b3f5a4c31088dd9d047",
+		"correctAnswer": "Eclipse",
+		"incorrectAnswers": [
+			"Waning",
+			"Transmutation",
+			"Occultation"
+		],
+		"question": {
+			"text": "What is the word for when the light from a star is blocked by another celestial object?"
+		},
+		"tags": [
+			"astronomy",
+			"space",
+			"science",
+			"astrophysics"
+		],
+		"type": "text_choice",
+		"difficulty": "easy",
+		"regions": [],
+		"isNiche": false
+	}
+]

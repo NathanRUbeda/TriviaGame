@@ -1,0 +1,22 @@
+[
+	{
+		"category": "general_knowledge",
+		"id": "6239f8019129041bf3925cbd",
+		"correctAnswer": "Alpha",
+		"incorrectAnswers": [
+			"Apple",
+			"Animal",
+			"Aeroplan"
+		],
+		"question": {
+			"text": "What word is used in the NATO Phonetic Alphabet for the letter A?"
+		},
+		"tags": [
+			"general_knowledge"
+		],
+		"type": "text_choice",
+		"difficulty": "easy",
+		"regions": [],
+		"isNiche": false
+	}
+]

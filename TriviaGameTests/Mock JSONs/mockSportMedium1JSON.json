@@ -1,0 +1,25 @@
+[
+	{
+		"category": "sport_and_leisure",
+		"id": "62417d1c0f96c4efe8d773a5",
+		"correctAnswer": "Edmonton Oilers",
+		"incorrectAnswers": [
+			"Edmonton Steelers",
+			"Edmonton Eathquakes",
+			"Edmonton Padres"
+		],
+		"question": {
+			"text": "Which of these is a hockey team based in Edmonton?"
+		},
+		"tags": [
+			"canada",
+			"hockey",
+			"nhl",
+			"sport"
+		],
+		"type": "text_choice",
+		"difficulty": "hard",
+		"regions": [],
+		"isNiche": false
+	}
+]

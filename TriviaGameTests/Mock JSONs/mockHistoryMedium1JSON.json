@@ -1,0 +1,22 @@
+[
+	{
+		"category": "history",
+		"id": "622a1c367cc59eab6f95035d",
+		"correctAnswer": "William The Conqueror",
+		"incorrectAnswers": [
+			"Henry VIII",
+			"Victoria",
+			"Albert the Great"
+		],
+		"question": {
+			"text": "Who was crowned King of England at Westminster Abbey on Christmas day 1066?"
+		},
+		"tags": [
+			"history"
+		],
+		"type": "text_choice",
+		"difficulty": "medium",
+		"regions": [],
+		"isNiche": false
+	}
+]

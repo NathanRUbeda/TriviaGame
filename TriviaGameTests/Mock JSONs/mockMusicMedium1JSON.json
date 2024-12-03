@@ -1,0 +1,22 @@
+[
+	{
+		"category": "music",
+		"id": "6266bc0db0e62e469cf43e8a",
+		"correctAnswer": "Mizmar",
+		"incorrectAnswers": [
+			"Harpsichord",
+			"Banjo",
+			"Lyre"
+		],
+		"question": {
+			"text": "Which of these is a woodwind instrument?"
+		},
+		"tags": [
+			"music"
+		],
+		"type": "text_choice",
+		"difficulty": "medium",
+		"regions": [],
+		"isNiche": false
+	}
+]

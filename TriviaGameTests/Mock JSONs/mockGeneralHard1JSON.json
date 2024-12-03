@@ -1,0 +1,23 @@
+[
+	{
+		"category": "general_knowledge",
+		"id": "622a1c357cc59eab6f94fc8f",
+		"correctAnswer": "Cattywampus",
+		"incorrectAnswers": [
+			"Funambulist",
+			"Donkey Engine",
+			"Widdershins"
+		],
+		"question": {
+			"text": "Which word is defined as 'askew'?"
+		},
+		"tags": [
+			"words",
+			"general_knowledge"
+		],
+		"type": "text_choice",
+		"difficulty": "hard",
+		"regions": [],
+		"isNiche": false
+	}
+]

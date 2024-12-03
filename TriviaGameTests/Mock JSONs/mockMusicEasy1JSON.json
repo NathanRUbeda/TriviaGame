@@ -1,0 +1,25 @@
+[
+	{
+		"category": "music",
+		"id": "622a1c357cc59eab6f94ff2d",
+		"correctAnswer": "Michael Jackson",
+		"incorrectAnswers": [
+			"Nicki Minaj",
+			"Neil Young",
+			"Eric Clapton"
+		],
+		"question": {
+			"text": "Who sung the song 'Smooth Criminal'?"
+		},
+		"tags": [
+			"songs",
+			"musicians",
+			"general_knowledge",
+			"music"
+		],
+		"type": "text_choice",
+		"difficulty": "easy",
+		"regions": [],
+		"isNiche": false
+	}
+]

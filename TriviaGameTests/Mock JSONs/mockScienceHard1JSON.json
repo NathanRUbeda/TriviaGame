@@ -1,0 +1,23 @@
+[
+	{
+		"category": "science",
+		"id": "622a1c377cc59eab6f9504c5",
+		"correctAnswer": "pollen",
+		"incorrectAnswers": [
+			"musical instruments",
+			"drugs",
+			"study of refuse and trash"
+		],
+		"question": {
+			"text": "What is Palynology the study of?"
+		},
+		"tags": [
+			"words",
+			"science"
+		],
+		"type": "text_choice",
+		"difficulty": "hard",
+		"regions": [],
+		"isNiche": false
+	}
+]

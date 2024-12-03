@@ -1,0 +1,114 @@
+[
+	{
+		"category": "film_and_tv",
+		"id": "622a1c347cc59eab6f94f90c",
+		"correctAnswer": "The Lord of the Rings",
+		"incorrectAnswers": [
+			"The Searchers",
+			"Ghost",
+			"My Favorite Year"
+		],
+		"question": {
+			"text": "Which film contains the character 'Gollum'?"
+		},
+		"tags": [
+			"fictitious_characters",
+			"film",
+			"general_knowledge",
+			"film_and_tv"
+		],
+		"type": "text_choice",
+		"difficulty": "easy",
+		"regions": [],
+		"isNiche": false
+	},
+	{
+		"category": "film_and_tv",
+		"id": "62573f049da29df7b05f7382",
+		"correctAnswer": "The Lord of the Rings: The Fellowship of the Ring",
+		"incorrectAnswers": [
+			"Star Wars",
+			"Double Indemnity",
+			"Logan"
+		],
+		"question": {
+			"text": "Name the movie that matches the following plot summary: 'A Hobbit and eight companions set out on a journey to destroy the powerful One Ring.'"
+		},
+		"tags": [
+			"film",
+			"film_and_tv"
+		],
+		"type": "text_choice",
+		"difficulty": "easy",
+		"regions": [],
+		"isNiche": false
+	},
+	{
+		"category": "film_and_tv",
+		"id": "64dfa27da6681754ea052baf",
+		"correctAnswer": "A warthog",
+		"incorrectAnswers": [
+			"A lion",
+			"An elephant",
+			"A rhinoceros"
+		],
+		"question": {
+			"text": "In the Lion King, what sort of animal is Pumbaa?"
+		},
+		"tags": [
+			"animals",
+			"disney",
+			"film",
+			"film_and_tv"
+		],
+		"type": "text_choice",
+		"difficulty": "easy",
+		"regions": [],
+		"isNiche": false
+	},
+	{
+		"category": "film_and_tv",
+		"id": "62573fa49da29df7b05f73a8",
+		"correctAnswer": "An archaeologist is hired by the government to find the Ark of the Covenant.",
+		"incorrectAnswers": [
+			"On a journey to find the cure for a curse, a boy finds himself in the middle of a war.",
+			"A Tramp struggles to live in modern industrial society with the help of a young homeless woman.",
+			"A 12-year-old is taken in by a professional assassin after her family is murdered."
+		],
+		"question": {
+			"text": "What is the plot of the movie Raiders of the Lost Ark?"
+		},
+		"tags": [
+			"film",
+			"film_and_tv"
+		],
+		"type": "text_choice",
+		"difficulty": "easy",
+		"regions": [],
+		"isNiche": false
+	},
+	{
+		"category": "film_and_tv",
+		"id": "6477bb1e550bc819ad646b7c",
+		"correctAnswer": "The Lion King",
+		"incorrectAnswers": [
+			"Aladdin",
+			"Beauty and the Beast",
+			"Mulan"
+		],
+		"question": {
+			"text": "Which Disney movie features the song 'Can You Feel The Love Tonight', written by Elton John and Tim Rice?"
+		},
+		"tags": [
+			"film",
+			"film_and_tv",
+			"disney",
+			"songs",
+			"soundtracks"
+		],
+		"type": "text_choice",
+		"difficulty": "easy",
+		"regions": [],
+		"isNiche": false
+	}
+]

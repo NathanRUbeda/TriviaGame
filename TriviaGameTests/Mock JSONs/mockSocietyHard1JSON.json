@@ -1,0 +1,24 @@
+[
+	{
+		"category": "society_and_culture",
+		"id": "6357fd0f68bd5000211e7178",
+		"correctAnswer": "Portuguese",
+		"incorrectAnswers": [
+			"Swahili",
+			"Cantonese",
+			"Telugu"
+		],
+		"question": {
+			"text": "Which of these languages would you find spoken in Mozambique?"
+		},
+		"tags": [
+			"language",
+			"linguistics",
+			"society_and_culture"
+		],
+		"type": "text_choice",
+		"difficulty": "hard",
+		"regions": [],
+		"isNiche": false
+	}
+]

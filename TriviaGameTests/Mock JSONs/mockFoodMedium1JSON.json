@@ -1,0 +1,22 @@
+[
+	{
+		"category": "food_and_drink",
+		"id": "622a1c3b7cc59eab6f951636",
+		"correctAnswer": "Almonds",
+		"incorrectAnswers": [
+			"Peanuts",
+			"Hazelnuts",
+			"Pistachio Nuts"
+		],
+		"question": {
+			"text": " What kind of nuts are used in marzipan?"
+		},
+		"tags": [
+			"food_and_drink"
+		],
+		"type": "text_choice",
+		"difficulty": "medium",
+		"regions": [],
+		"isNiche": false
+	}
+]

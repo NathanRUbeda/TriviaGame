@@ -1,0 +1,25 @@
+[
+	{
+		"category": "film_and_tv",
+		"id": "63a03992c7d86251f9b65c82",
+		"correctAnswer": "Kaa",
+		"incorrectAnswers": [
+			"Baloo",
+			"Shere Khan",
+			"King Louie"
+		],
+		"question": {
+			"text": "What is the name of the snake in the Disney film The Jungle Book?"
+		},
+		"tags": [
+			"film_and_tv",
+			"disney",
+			"film",
+			"fictitious_characters"
+		],
+		"type": "text_choice",
+		"difficulty": "medium",
+		"regions": [],
+		"isNiche": false
+	}
+]

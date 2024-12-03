@@ -1,0 +1,25 @@
+[
+	{
+		"category": "history",
+		"id": "622a1c367cc59eab6f9503d7",
+		"correctAnswer": "Decimate",
+		"incorrectAnswers": [
+			"Havoc",
+			"Mutilate",
+			"Annihilate"
+		],
+		"question": {
+			"text": "What Name Was Given To The Practise Of Killing Every Tenth Man In A Mutinous Roman Cohort?"
+		},
+		"tags": [
+			"words",
+			"romans",
+			"general_knowledge",
+			"history"
+		],
+		"type": "text_choice",
+		"difficulty": "easy",
+		"regions": [],
+		"isNiche": false
+	}
+]

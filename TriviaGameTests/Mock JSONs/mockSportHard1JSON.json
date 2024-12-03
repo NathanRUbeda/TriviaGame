@@ -1,0 +1,24 @@
+[
+	{
+		"category": "sport_and_leisure",
+		"id": "6470d59c32850588056636e7",
+		"correctAnswer": "Left-handed",
+		"incorrectAnswers": [
+			"Lightweight",
+			"Quick-footed",
+			"Unpredictable"
+		],
+		"question": {
+			"text": "In boxing, what is meant by, the term 'southpaw'?"
+		},
+		"tags": [
+			"boxing",
+			"sport",
+			"words"
+		],
+		"type": "text_choice",
+		"difficulty": "medium",
+		"regions": [],
+		"isNiche": false
+	}
+]

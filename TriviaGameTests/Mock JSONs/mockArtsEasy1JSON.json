@@ -1,0 +1,23 @@
+[
+	{
+		"category": "arts_and_literature",
+		"id": "622a1c397cc59eab6f950f9c",
+		"correctAnswer": "William Shakespeare",
+		"incorrectAnswers": [
+			"Arthur C. Clarke",
+			"Isaac Newton",
+			"Enid Blyton"
+		],
+		"question": {
+			"text": "Which author wrote 'Hamlet'?"
+		},
+		"tags": [
+			"literature",
+			"general_knowledge"
+		],
+		"type": "text_choice",
+		"difficulty": "easy",
+		"regions": [],
+		"isNiche": false
+	}
+]

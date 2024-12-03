@@ -1,0 +1,22 @@
+[
+	{
+		"category": "geography",
+		"id": "623b57a9fd6c701a92118370",
+		"correctAnswer": "Indonesia",
+		"incorrectAnswers": [
+			"Turkey",
+			"Saudi Arabia",
+			"Thailand"
+		],
+		"question": {
+			"text": "In which country would you find the island of Bali?"
+		},
+		"tags": [
+			"geography"
+		],
+		"type": "text_choice",
+		"difficulty": "medium",
+		"regions": [],
+		"isNiche": false
+	}
+]

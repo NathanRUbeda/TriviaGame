@@ -1,0 +1,23 @@
+[
+	{
+		"category": "sport_and_leisure",
+		"id": "65056f7f7a97013de78b545e",
+		"correctAnswer": "Cricket",
+		"incorrectAnswers": [
+			"Javelin throw",
+			"Archery",
+			"Karate"
+		],
+		"question": {
+			"text": "Which of these sports uses a ball?"
+		},
+		"tags": [
+			"sport_and_leisure",
+			"sport"
+		],
+		"type": "text_choice",
+		"difficulty": "easy",
+		"regions": [],
+		"isNiche": false
+	}
+]

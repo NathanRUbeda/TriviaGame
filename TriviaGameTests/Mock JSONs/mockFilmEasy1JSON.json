@@ -1,0 +1,23 @@
+[
+	{
+		"category": "film_and_tv",
+		"id": "625741379da29df7b05f740e",
+		"correctAnswer": "Pirates of the Caribbean: The Curse of the Black Pearl",
+		"incorrectAnswers": [
+			"Die Hard",
+			"The Departed",
+			"The Truman Show"
+		],
+		"question": {
+			"text": "Name the movie that matches the following plot summary: 'A blacksmith teams up with an eccentric pirate to save his love.'"
+		},
+		"tags": [
+			"film",
+			"film_and_tv"
+		],
+		"type": "text_choice",
+		"difficulty": "easy",
+		"regions": [],
+		"isNiche": false
+	}
+]

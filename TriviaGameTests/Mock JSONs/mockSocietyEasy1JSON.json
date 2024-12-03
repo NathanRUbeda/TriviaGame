@@ -1,0 +1,25 @@
+[
+	{
+		"category": "society_and_culture",
+		"id": "63dd25c7742e43ed64f1f016",
+		"correctAnswer": "Elon Musk",
+		"incorrectAnswers": [
+			"Jeff Bezos",
+			"Bill Gates",
+			"Mark Zuckerberg"
+		],
+		"question": {
+			"text": "What is the name of the founder of Tesla Motors?"
+		},
+		"tags": [
+			"society_and_culture",
+			"business",
+			"people",
+			"motoring"
+		],
+		"type": "text_choice",
+		"difficulty": "easy",
+		"regions": [],
+		"isNiche": false
+	}
+]

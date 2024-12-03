@@ -1,0 +1,29 @@
+[
+	{
+		"category": "science",
+		"id": "647f9de83a4302a719271655",
+		"correctAnswer": "Scurvy",
+		"incorrectAnswers": [
+			"Smallpox",
+			"Malaria",
+			"Yellow fever"
+		],
+		"question": {
+			"text": "What disease did the British navy begin issuing daily rations of lemon juice in 1795 to prevent?"
+		},
+		"tags": [
+			"nutrition",
+			"health",
+			"disease",
+			"diseases",
+			"science",
+			"medicine",
+			"seafaring",
+			"history"
+		],
+		"type": "text_choice",
+		"difficulty": "medium",
+		"regions": [],
+		"isNiche": false
+	}
+]

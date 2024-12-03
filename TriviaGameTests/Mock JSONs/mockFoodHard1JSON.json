@@ -1,0 +1,24 @@
+[
+	{
+		"category": "food_and_drink",
+		"id": "63f394fd989356ef48370bd7",
+		"correctAnswer": "Kiwi",
+		"incorrectAnswers": [
+			"Cantaloupe",
+			"Honeydew",
+			"Watermelon"
+		],
+		"question": {
+			"text": "Which of these fruits is not a melon?"
+		},
+		"tags": [
+			"food_and_drink",
+			"food",
+			"fruit"
+		],
+		"type": "text_choice",
+		"difficulty": "hard",
+		"regions": [],
+		"isNiche": false
+	}
+]

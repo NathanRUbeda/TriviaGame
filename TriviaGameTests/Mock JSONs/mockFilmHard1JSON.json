@@ -1,0 +1,22 @@
+[
+	{
+		"category": "film_and_tv",
+		"id": "622a1c377cc59eab6f950660",
+		"correctAnswer": "Tim Roth",
+		"incorrectAnswers": [
+			"Paul Newman",
+			"Tobey Maguire",
+			"Elijah Wood"
+		],
+		"question": {
+			"text": "Which actor has played roles in both Twin Peaks and Pulp Fiction?"
+		},
+		"tags": [
+			"film_and_tv"
+		],
+		"type": "text_choice",
+		"difficulty": "hard",
+		"regions": [],
+		"isNiche": false
+	}
+]

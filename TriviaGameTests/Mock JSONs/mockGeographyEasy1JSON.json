@@ -1,0 +1,23 @@
+[
+	{
+		"category": "geography",
+		"id": "62602d924b176d54800e3ca2",
+		"correctAnswer": "United Arab Emirates",
+		"incorrectAnswers": [
+			"Bahrain",
+			"Egypt",
+			"Jordan"
+		],
+		"question": {
+			"text": "In which country is the city of Abu Dhabi?"
+		},
+		"tags": [
+			"cities",
+			"geography"
+		],
+		"type": "text_choice",
+		"difficulty": "easy",
+		"regions": [],
+		"isNiche": false
+	}
+]

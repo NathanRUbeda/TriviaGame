@@ -1,0 +1,24 @@
+[
+	{
+		"category": "geography",
+		"id": "622a1c357cc59eab6f950012",
+		"correctAnswer": "Bhutan",
+		"incorrectAnswers": [
+			"Bangladesh",
+			"Nepal",
+			"Myanmar"
+		],
+		"question": {
+			"text": "____________ is derived from the Indian word Bhotanta, meaning \"the edge of Tibet.\" It is located in Asia near the southern fringes of the eastern Himalayas."
+		},
+		"tags": [
+			"countries",
+			"names",
+			"geography"
+		],
+		"type": "text_choice",
+		"difficulty": "hard",
+		"regions": [],
+		"isNiche": false
+	}
+]

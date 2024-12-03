@@ -1,0 +1,25 @@
+[
+	{
+		"category": "music",
+		"id": "622a1c357cc59eab6f94ffd2",
+		"correctAnswer": "Manfred Mann",
+		"incorrectAnswers": [
+			"Uriah Heep",
+			"Chumbawamba",
+			"The Rolling Stones"
+		],
+		"question": {
+			"text": "Which 60's Star Was Born In Johannesburg And Christened Michael Lubowitz?"
+		},
+		"tags": [
+			"pseudonyms",
+			"names",
+			"nicknames",
+			"music"
+		],
+		"type": "text_choice",
+		"difficulty": "hard",
+		"regions": [],
+		"isNiche": false
+	}
+]

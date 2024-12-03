@@ -1,0 +1,25 @@
+[
+	{
+		"category": "history",
+		"id": "622a1c3c7cc59eab6f951868",
+		"correctAnswer": "Turkey",
+		"incorrectAnswers": [
+			"Russia",
+			"Spain",
+			"Denmark"
+		],
+		"question": {
+			"text": "Where did the real St. Nicholas live?"
+		},
+		"tags": [
+			"christmas",
+			"christianity",
+			"people",
+			"history"
+		],
+		"type": "text_choice",
+		"difficulty": "hard",
+		"regions": [],
+		"isNiche": false
+	}
+]

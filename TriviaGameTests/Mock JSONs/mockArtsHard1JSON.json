@@ -1,0 +1,24 @@
+[
+	{
+		"category": "arts_and_literature",
+		"id": "622a1c347cc59eab6f94fa36",
+		"correctAnswer": "Primitivism",
+		"incorrectAnswers": [
+			"Baroque",
+			"Renaissance",
+			"Neoclassicism"
+		],
+		"question": {
+			"text": "The painting \"The Sleeping Gypsy\" by Henri Rousseau is a part of which art movement?"
+		},
+		"tags": [
+			"art",
+			"painting",
+			"arts_and_literature"
+		],
+		"type": "text_choice",
+		"difficulty": "hard",
+		"regions": [],
+		"isNiche": false
+	}
+]
