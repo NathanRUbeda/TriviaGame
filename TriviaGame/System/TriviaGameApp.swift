@@ -9,9 +9,16 @@ import SwiftUI
 
 @main
 struct TriviaGameApp: App {
+	let viewModel: QuestionViewModel
+	
+	init() {
+		let viewModel = QuestionViewModel()
+		self.viewModel = viewModel
+	}
+	
     var body: some Scene {
         WindowGroup {
-            ContentView()
+			ContentView(viewModel: viewModel)
         }
     }
 }
