@@ -7,7 +7,7 @@ The TriviaGame app is a game where you have to select the right answer for any g
 
 
 ## Get Started
-TriviaGame fetches data from [TheTriviaApp](https://the-trivia-api.com). You don't need any extra keys to use it. Follow these instructions: 
+TriviaGame fetches data from [TheTriviaAPI](https://the-trivia-api.com). You don't need any extra keys to use it. Follow these instructions: 
 
 1. Download the project..
 2. Ensure you have signing capabilities enabled under the Project settings for the "TriviaGame" target.
